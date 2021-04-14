@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Python\\python.exe"
+    "python.pythonPath": "env\\Scripts\\python.exe",
+    "cmake.configureOnOpen": true
 }
